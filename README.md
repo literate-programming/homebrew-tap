@@ -13,7 +13,7 @@ brew tap literate-programming/tap
 Then you cann install the `lit` cli
 
 ```sh
-brew install lit-cli
+brew install lit
 ```
 
 ## Documentation
